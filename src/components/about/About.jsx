@@ -39,14 +39,19 @@ const About = () => {
             <article className='about__card'>
               <AiFillCodeSandboxCircle className='about__icon'/>
               <h5>Major Tools</h5>
-              <small>HTML, CSS, JS, ReactJs, NextJs</small>
+              <small>HTML, CSS, JS, ReactJs, NextJs, Django</small>
             </article>
+            
           </div>
           
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
-            Necessitatibus ea laborum sapiente, deleniti delectus in rerum atque officia officiis repudiandae 
-            nobis reprehenderit expedita, veniam quo commodi. 
-            Laudantium accusamus asperiores quaerat?
+          <p>
+          I'm a passionate full-stack developer with a strong foundation in both 
+          front-end and back-end technologies. 
+          I create efficient, scalable, and user-focused digital solutions, 
+          combining technical skills with a creative edge to build seamless experiences for end users.
+           Whether it’s developing an intuitive front-end 
+          interface or architecting the back end for smooth performance,
+           my goal is to deliver high-quality software that meets both user needs and industry standards.
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>

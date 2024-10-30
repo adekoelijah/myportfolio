@@ -15,31 +15,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>User-Centered Design.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Intuitive Navigation.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Responsiveness.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Minimalist Aesthetics.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Feedback and Clarity.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Accessibility.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Consistency.</p>
             </li>
           </ul>
         </article>
@@ -51,31 +51,32 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mobile-First Approach.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Fast Load Times:.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Clean and Semantic Code.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>SEO Best Practices.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Cross-Browser Compatibility.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Scalability.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Protect user data and site functionality by following best practices in web security, 
+                such as HTTPS, secure authentication, and data validation..</p>
             </li>
           </ul>
         </article>
@@ -87,31 +88,31 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Clear Call-to-Action (CTA).</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Personalization.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Segmentation.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Compelling Subject Lines.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Mobile Optimization.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Consistent Branding.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Performance Tracking.</p>
             </li>
           </ul>
         </article>
