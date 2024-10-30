@@ -55,7 +55,7 @@ const Services = () => {
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Fast Load Times:.</p>
+              <p>Fast Load Times.</p>
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
@@ -75,8 +75,7 @@ const Services = () => {
             </li>
             <li>
               <BsFillCheckCircleFill className='service__list-icon'/>
-              <p>Protect user data and site functionality by following best practices in web security, 
-                such as HTTPS, secure authentication, and data validation..</p>
+              <p>Security.</p>
             </li>
           </ul>
         </article>
